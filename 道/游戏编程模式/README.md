@@ -1,4 +1,4 @@
-# 游戏编程模式
+# 深入浅出游戏编程模式
 
 本部分内容主要是 Voidmatrix 在重复翻阅 Bob Nystrom 所著的《Game Programming Patterns》时产生的笔记，可能会掺杂一部分来自 Voidmatrix 本人的理解、反思以及代码
 
