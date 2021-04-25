@@ -32,7 +32,7 @@ Voidmatrix 会尽自己最大的可能把笔记本打理得井井有条，但是
 
 这将意味着，所有在本项目基础之上搭建起来的高楼大厦，都必须秉持开放 源代码（或原始内容）的初衷，并且在自己的项目中采用相同的许可证，除此之外，你可能还要对新增的部分提供足够的说明文档  
 
-最后，还要感谢 [VisualDust](https://github.com/visualDust) 的 [talkischeap](https://github.com/visualDust/talkischeap) 项目为本 README 编写带来了足够的灵感
+最后，还要感谢 [VisualDust](https://github.com/visualDust) 的 [ml.akasaki.space](https://github.com/visualDust/ml.akasaki.space) 项目为本 README 编写带来了足够的灵感
 
 ******
 
