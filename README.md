@@ -8,6 +8,9 @@
 ![](https://img.shields.io/github/commit-activity/m/VoidmatrixHeathcliff/GameDeveloperNotes)
 ![](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=VoidmatrixHeathcliff.GameDeveloperNotes.readme)
 
+**更多游戏开发课程：[https://space.bilibili.com/25864506/pugv](https://space.bilibili.com/25864506/pugv)**  
+*涵盖本笔记在内的更多设计模式和架构：[https://www.bilibili.com/video/BV18ZQRYVE7X/](https://www.bilibili.com/video/BV18ZQRYVE7X/)*
+
 ## 这是什么？
 
 这里是 Voidmatrix 的游戏开发笔记  
